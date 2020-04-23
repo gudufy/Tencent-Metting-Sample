@@ -10,6 +10,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+        //创建会议室
         static void Main(string[] args)
         {
             var SecretId = "your id";
