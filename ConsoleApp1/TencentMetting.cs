@@ -13,9 +13,9 @@ namespace ConsoleApp1
     /// </summary>
     public class TencentMetting
     {
-        private string SecretId = "BhiSJueYm6GxcCzfjM32naRkEdK0qIUObFTg";
-        private string SecretKey = "V9mPuNel1zJd76f8MGRgDnBosqUkKtQH";
-        private string AppId = "200000461";
+        private string SecretId = "Your SecretId";
+        private string SecretKey = "Your SecretKey";
+        private string AppId = "Your AppId";
 
         /// <summary>
         /// 开通会议室
